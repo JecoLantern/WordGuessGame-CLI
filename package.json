@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/JecoLantern/WordGuessGame-CLI#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.1",
     "inquirer": "^6.2.0"
   }
 }
